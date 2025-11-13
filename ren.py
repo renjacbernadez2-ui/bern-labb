@@ -1,5 +1,3 @@
-# Simple Login System in Python
-
 # Step 1: Store username and password
 USERNAME = "admin"
 PASSWORD = "12345"
